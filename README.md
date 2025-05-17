@@ -1,5 +1,6 @@
-﻿# Chess Win Codechef
+﻿## Chess Win Codechef
 
+#### Approach:
 
 This C++ program reads two integers, `a` and `b`, from the user input and calculates the number of integers in the inclusive range from `a` to `b`. 
 
