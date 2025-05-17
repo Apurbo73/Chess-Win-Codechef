@@ -14,5 +14,5 @@ for (int i = 0; i < 5; i++) { cout << i << " "; } Output: 0 1 2 3 4
 #### while loop – when you repeat as long as a condition is true
 int i = 0; while (i < 5) { cout << i << " "; i++; }
 
-do...while loop – similar to while, but runs at least once
+#### do...while loop – similar to while, but runs at least once
 int i = 0; do { cout << i << " "; i++; } while (i < 5);
