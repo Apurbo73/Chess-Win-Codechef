@@ -1,4 +1,4 @@
-#﻿## Chess Win Codechef:
+#﻿## Chess Win CodeChef:
 
 #### Approach:
 
