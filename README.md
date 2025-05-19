@@ -8,7 +8,7 @@ The core logic lies in the expression `b - a + 1`, which gives the count of numb
 
  This logic assumes that `a <= b`; if `a > b`, the result will be zero or negative, which might not be meaningful in such a context without additional checks.
 
-## Types of Loops in C++:
+### Types of Loops in C++:
 #### for loop – when you know how many times to repeat
 for (int i = 0; i < 5; i++) { cout << i << " "; } Output: 0 1 2 3 4
 
